@@ -1,0 +1,107 @@
+[
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519899655782,
+            "changeTime": 1519899655782,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519899655799,
+            "changeTime": 1519899655799,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519906168226,
+            "changeTime": 1519906168226,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519899655800,
+            "changeTime": 1519899655800,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519906168228,
+            "changeTime": 1519906207161,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1519906168229,
+            "changeTime": 1519906206999,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\658689\\SFDX\\MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\658689\\SFDX\\MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519906649095,
+            "changeTime": 1519906649095,
+            "contentHash": "076f1b6be7c81869a1ad814d5bd3b3569920593f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
